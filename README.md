@@ -1,2 +1,0 @@
-# NoSupervisat_Classificacio
- 
